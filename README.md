@@ -7,10 +7,6 @@
 - 📝 I regularly write on [LinkedIn](https://linkedin.com/in/chizhang0810)
 - 📫 How to reach me: **[chi.z.dev@fastmail.com](mailto:chi.z.dev@fastmail.com)**
 
-
-  [![Chi Zhang's GitHub | Languages Over Time](https://stats.quira.sh/chizhang9135/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=chizhang9135)
-
-
 ---
 
 ## 📕 Technology Stack
@@ -55,6 +51,6 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/chizhang0810" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/chizhang0x1" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
 </p>
 
