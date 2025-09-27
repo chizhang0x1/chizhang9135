@@ -1,7 +1,3 @@
-Here's a GitHub README template based on your resume. Let me know if you'd like to adjust anything!
-
----
-
 <h1 align="center">👋 Hi, I'm Chi Zhang</h1>
 <h3 align="center">💻 Building Systems 🌟 Learning Deep Tech 🚀 Innovating Solutions</h3>
 
@@ -12,7 +8,6 @@ Here's a GitHub README template based on your resume. Let me know if you'd like 
 - 📫 How to reach me: **[chi.z.dev@fastmail.com](mailto:chi.z.dev@fastmail.com)**
 
 
-  [![Chi Zhang's GitHub | Stats](https://stats.quira.sh/chizhang9135/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=chizhang9135)  
   [![Chi Zhang's GitHub | Languages Over Time](https://stats.quira.sh/chizhang9135/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=chizhang9135)
 
 
